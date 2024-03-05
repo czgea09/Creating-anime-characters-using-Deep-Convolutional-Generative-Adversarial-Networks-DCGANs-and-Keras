@@ -16,8 +16,6 @@ Name : Arifian Saputra
 
 # Tech Stack
 
-- Python
-
 - Jupyter Notebook
 
 - Google Colab
