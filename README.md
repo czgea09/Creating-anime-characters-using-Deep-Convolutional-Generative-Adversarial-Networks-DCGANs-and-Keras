@@ -20,6 +20,8 @@ Name : Arifian Saputra
 
 - Jupyter Notebook
 
+- Google Colab
+
 # Credits
 
 - Parents
